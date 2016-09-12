@@ -1,0 +1,24 @@
+{
+  "name": "Ganttron",
+  "version": "1.0.0",
+  "description": "Electron based Gantt Project Tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeGo/Ganttron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeGo/Ganttron/issues"
+  },
+  "homepage": "https://github.com/GeorgeGo/Ganttron#readme",
+  "dependencies": {
+    "electron": "^1.3.5"
+  }
+}
